@@ -44,5 +44,3 @@
 
 </br>
 </br>
-
-[원그릇(원광대학교 맛집 어플리케이션)](https://github.com/hyun940630/onebowl)
