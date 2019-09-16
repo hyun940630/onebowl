@@ -3,11 +3,9 @@
 </br>
 </br>
 
-![1]()
-
 ## ScreenShots
 <div>
-  <img width="820" src="https://user-images.githubusercontent.com/33711323/64934693-75336d80-d887-11e9-88f6-93da9e5d5e27.png">
+  <img width="840" src="https://user-images.githubusercontent.com/33711323/64934693-75336d80-d887-11e9-88f6-93da9e5d5e27.png">
 </div>  
 
 </br>
