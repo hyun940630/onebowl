@@ -31,7 +31,9 @@
  - Front-end : `HTML/CSS` `JavaScript` `jQuery` `VSCode`  
  
  - Back-end:  `Linux` `Apache` `MySQL` `PHP`  
-
+  
+ - `Phonegap` `Cordova`  
+ 
 </br>
 </br>
 </br>
